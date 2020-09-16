@@ -1,12 +1,12 @@
 {
   "main": {
     "name":"Heather Rosa",
-    "description":"I do shit sometimes",
+    "description":"Full Stack Web Developer. Back-end specialty.",
     "image":"profilepic.jpg",
     "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    "contactmessage":"I embrace all opportunities to learn and put what I have learned into use. To find out if my skills can help your projects grow, please contact me using any of the means below.",
+    "email": "roguerosah@gmail.com",
+    "phone": "541-301-9081",
     "github":"https://github.com/KashkaRoo",
     "project":"https://github.com/KashkaRoo",
     "address":{

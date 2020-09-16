@@ -38,10 +38,10 @@ class Header extends Component {
             <h3>{description}.</h3>
             <hr />
             <ul className="social">
-              {/*  <a href={project} className="button btn project-btn"><i className="fa fa-book"></i>Project</a>
-               <a href={github} className="button btn github-btn"><i className="fa fa-github"></i>Github</a> */}
-               <a href={process.env.PUBLIC_URL + 'mulan.mkv'} download="mulan.mkv" className="button btn project-btn"><i className="fa fa-book"></i>MULAN</a>
-            </ul>
+              <a href={project} className="button btn project-btn"><i className="fa fa-book"></i>Project</a>
+               <a href={github} className="button btn github-btn"><i className="fa fa-github"></i>Github</a>
+{/*                <a href={process.env.PUBLIC_URL} download="" className="button btn project-btn"><i className="fa fa-book"></i></a>
+ */}            </ul>
          </div>
       </div>
 
