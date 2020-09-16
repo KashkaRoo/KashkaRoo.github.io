@@ -40,13 +40,13 @@
         "company":"US Fish and Wildlife Forensics Laboratory",
         "title":"Full Stack Application Developer",
         "years":"June 2020 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description":"Continued development on React, Node.js, Express, T-Sql stack application end-to-end project. Complete CRUD functionality. Material UI. NPM imports. Database architecture and file handling for uploaded attachments through RESTful API. "
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Lithia",
+        "title":"QA Internship",
+        "years":"September 2019 - March 2020",
+        "description":"Responsible for testing payroll software for a fortune 500 company which included: code review of Excel macros, functional review of Excel spreadsheets, SQL relational database data integrity testing, report generation, code and functional review of multiple SSIS ETL packages, React front-end UX testing and validation. "
       }
     ],
     "skills":[

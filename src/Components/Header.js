@@ -40,8 +40,7 @@ class Header extends Component {
             <ul className="social">
               <a href={project} className="button btn project-btn"><i className="fa fa-book"></i>Project</a>
                <a href={github} className="button btn github-btn"><i className="fa fa-github"></i>Github</a>
-{/*                <a href={process.env.PUBLIC_URL} download="" className="button btn project-btn"><i className="fa fa-book"></i></a>
- */}            </ul>
+          </ul>
          </div>
       </div>
 
