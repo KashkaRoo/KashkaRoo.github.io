@@ -1,7 +1,7 @@
 {
   "main": {
     "name":"Heather Rosa",
-    "description":"Full Stack Web Developer. Back-end specialty.",
+    "description":"Full Stack Web Developer - Back-end specialty",
     "image":"profilepic.jpg",
     "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
     "contactmessage":"I embrace all opportunities to learn and put what I have learned into use. To find out if my skills can help your projects grow, please contact me using any of the means below.",
@@ -59,12 +59,8 @@
         "level":"60%"
       },
       {
-        "name":"ReactJs",
-        "level":"80%"
-      },
-      {
         "name":"CSS",
-        "level":"60%"
+        "level":"40%"
       },
       {
         "name":"C/C++/CSharp",
@@ -72,7 +68,7 @@
       },
       {
         "name":"JAVA",
-        "level":"60%"
+        "level":"50%"
       }
     ]
   },
