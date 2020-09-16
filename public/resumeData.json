@@ -1,0 +1,95 @@
+{
+  "main": {
+    "name":"Heather Rosa",
+    "description":"I do shit sometimes",
+    "image":"profilepic.jpg",
+    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "youremailhere@gmail.com",
+    "phone": "555-555-5555",
+    "github":"https://github.com/KashkaRoo",
+    "project":"https://github.com/KashkaRoo",
+    "address":{
+      "street":"PO BOX 83",
+      "city":"Talent",
+      "state":"OR",
+      "zip": "97540"
+    },
+    "website": "http://www.roguerosah.com",
+    "resumedownload":"https://docs.google.com/document/d/1FhQAuDDDV4ZdVa0ka9sNepsXVpMuqszs957WyTlMZcE/edit?usp=sharing",
+    "social":[
+      {
+        "name":"github",
+        "url":"https://github.com/KashkaRoo",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"Southern Oregon University",
+        "degree":"Bachelors of Science - Computer Science",
+        "graduated":"June 2020",
+        "description":"Course Work"
+      }
+    ],
+    "work":[
+      {
+        "company":"US Fish and Wildlife Forensics Laboratory",
+        "title":"Full Stack Application Developer",
+        "years":"June 2020 - Present",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company":"Super Cool Studio",
+        "title":"Junior bug fixer",
+        "years":"March 2007 - February 2010",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ],
+    "skills":[
+      {
+        "name":"React",
+        "level":"80%"
+      },
+      {
+        "name":"Python",
+        "level":"60%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"80%"
+      },
+      {
+        "name":"CSS",
+        "level":"60%"
+      },
+      {
+        "name":"C/C++/CSharp",
+        "level":"50%"
+      },
+      {
+        "name":"JAVA",
+        "level":"60%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Fish and Wildlife Specimen Dashboard",
+        "category":"React/Node.js/Express/SQL",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://fwsfl-demo.herokuapp.com/"
+      },
+      {
+        "title":"Resume",
+        "category":"A React based resume website template",
+        "image":"resume-website.jpg",
+        "url":"http://www.timbakerdev.com"
+      }
+    ]
+  }
+}
