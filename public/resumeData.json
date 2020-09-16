@@ -3,7 +3,7 @@
     "name":"Heather Rosa",
     "description":"Full Stack Web Developer - Back-end specialty",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio":"To obtain a professional position in a full-stack, database management, or software development industry. To utilize my relevant technical experience, skills, and genuine enjoyment of problem solving to fix real world problems and help real people.",
     "contactmessage":"I embrace all opportunities to learn and put what I have learned into use. To find out if my skills can help your projects grow, please contact me using any of the means below.",
     "email": "roguerosah@gmail.com",
     "phone": "541-301-9081",
@@ -32,7 +32,7 @@
         "school":"Southern Oregon University",
         "degree":"Bachelors of Science - Computer Science",
         "graduated":"June 2020",
-        "description":"Course Work"
+        "description":"Data Structures/Algorithms, Software Security, Java/C/Python, Machine Learning, Computation Analysis. Department GPA: 3.37"
       }
     ],
     "work":[
@@ -79,12 +79,6 @@
         "category":"React/Node.js/Express/SQL",
         "image":"canadian-wanderlust.jpg",
         "url":"https://fwsfl-demo.herokuapp.com/"
-      },
-      {
-        "title":"Resume",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
       }
     ]
   }
