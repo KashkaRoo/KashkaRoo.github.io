@@ -20,6 +20,7 @@ class Portfolio extends Component {
                 </div>
               </a>
             </div>
+            <a href={projects.code}>GitHub Code</a>
           </div>
         )
       })
@@ -32,7 +33,7 @@ class Portfolio extends Component {
 
           <div className="twelve columns collapsed">
 
-            <h1>Check Out Some of My Works. Live Links Coming Soon!</h1>
+            <h1>Check Out Some of My Works.</h1>
 
             <div id="portfolio-wrapper" className="bgrid-quarters s-bgrid-thirds cf">
               {projects}

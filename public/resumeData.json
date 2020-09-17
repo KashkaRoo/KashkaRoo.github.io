@@ -78,7 +78,8 @@
         "title":"Fish and Wildlife Specimen Dashboard",
         "category":"React/Node.js/Express/SQL",
         "image":"fws.PNG",
-        "url":"https://github.com/KashkaRoo/fwsapp-demo"
+        "code":"https://github.com/KashkaRoo/fwsapp-demo",
+        "url":"https://fwsfl-demo.herokuapp.com/"
       }
     ]
   }
