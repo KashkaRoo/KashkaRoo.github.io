@@ -26,7 +26,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"Language Proficiency (based on experience and confidence)",
     "education":[
       {
         "school":"Southern Oregon University",
@@ -51,7 +51,7 @@
     ],
     "skills":[
       {
-        "name":"React",
+        "name":"React/JavaScript",
         "level":"80%"
       },
       {
@@ -59,8 +59,8 @@
         "level":"60%"
       },
       {
-        "name":"CSS",
-        "level":"40%"
+        "name":"SQL",
+        "level":"70%"
       },
       {
         "name":"C/C++/CSharp",
@@ -77,8 +77,8 @@
       {
         "title":"Fish and Wildlife Specimen Dashboard",
         "category":"React/Node.js/Express/SQL",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://fwsfl-demo.herokuapp.com/"
+        "image":"fws.PNG",
+        "url":"https://github.com/KashkaRoo/fwsapp-demo"
       }
     ]
   }
